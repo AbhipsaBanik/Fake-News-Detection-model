@@ -1,0 +1,1 @@
+This is my 1st project and I have tried to implement a fake news model, The datasets have been uploaded with the file names Fake(2).csv and True(2).csv and my google collab notebook is also uploaded. I have tried to implement various classification models such as Logistic Regression, Decission Tree Classifier,Random Forest Classifier and Gradient Boosting Classifier.
